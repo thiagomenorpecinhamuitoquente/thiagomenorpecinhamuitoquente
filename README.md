@@ -1,7 +1,8 @@
 # Olá! Eu meu nome é Thiago 👋
 
 ## Sobre mim 
-🌱 Estudando [Desenvolvimentos de Sistemas]  
+🌱 Estudando Desenvolvimentos de Sistemas  
+🧑‍💻 2º ano do Ensino Médio
 
 ## Tecnologias
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
