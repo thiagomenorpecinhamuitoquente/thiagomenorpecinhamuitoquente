@@ -1,4 +1,4 @@
-# Olá! Eu meu nome é [Thiago] 👋
+# Olá! Eu meu nome é Thiago 👋
 
 ## Sobre mim 
 🌱 Estudando [Desenvolvimentos de Sistemas]  
