@@ -1,7 +1,7 @@
 # Olá! Eu me chamo Thiago 👋
 
 ## Sobre mim 
-🌱 <span style="color:blue">Seu texto</span>Estudando Desenvolvimentos de Sistemas  
+🌱 <span style="color:blue">Seu texto</span>
 🧑‍💻 2º ano do Ensino Médio
 
 ![Capitao](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@005b50a9ed099059e7534abb7ec9981c90be1c9f/uploads/2026-04-27T11-28-00-095Z-dxq5b7zfc.gif)
