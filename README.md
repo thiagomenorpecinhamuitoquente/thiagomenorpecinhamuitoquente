@@ -4,7 +4,7 @@
 🌱 Estudando Desenvolvimentos de Sistemas  
 🧑‍💻 2º ano do Ensino Médio
 
-![Capitao](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@d296802d09f52e162cbf45812b98c7f41c08c85a/uploads/2026-04-27T11-05-33-726Z-yqkv8kl22.gif)
+![Capitao](https://raw.githubusercontent.com/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design/d296802d09f52e162cbf45812b98c7f41c08c85a/uploads/2026-04-27T11-05-33-726Z-yqkv8kl22.gif)
 
 
 
