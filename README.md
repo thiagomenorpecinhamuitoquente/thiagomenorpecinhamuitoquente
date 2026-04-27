@@ -1,4 +1,4 @@
-# Olá! Eu me chamo Thiago 👋
+# Olá! Eu me chamo Thiago 
 
 ## Sobre mim 
  Cursando Desenvolvimento de Sistemas
