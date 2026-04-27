@@ -4,7 +4,7 @@
 🌱 Estudando Desenvolvimentos de Sistemas  
 🧑‍💻 2º ano do Ensino Médio
 
-![Capitao](https://octodex.github.com/images/carlostocat.gif)
+![Capitao](https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@93eaf7d1102389b84c6a51104a4bb79af645801a/uploads/2026-04-27T11-01-55-923Z-jayjj6u6l.jpeg)
 
 
 
